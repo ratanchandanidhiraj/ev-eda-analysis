@@ -1,5 +1,4 @@
-ev-eda-analysis-
-Exploratory Data Analysis of Electric Vehicle Dataset using Python# EV Dataset Exploratory Data Analysis
+Exploratory Data Analysis of Electric Vehicle Dataset using Python
 
 Overview-
 This project performs exploratory data analysis on an Electric Vehicle dataset to understand adoption trends, pricing, range, and manufacturer insights.
